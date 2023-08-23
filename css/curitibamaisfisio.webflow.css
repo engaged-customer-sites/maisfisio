@@ -6641,7 +6641,7 @@ blockquote {
   width: 100%;
   max-width: 1080px;
   color: #fff;
-  background-color: #0b1247;
+  background-color: #fafafa;
   border-radius: 16px;
   justify-content: space-between;
   align-items: center;
@@ -6731,6 +6731,15 @@ blockquote {
   .brix---z-index-1 {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .walsh-container-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .section-3 {
+    background-color: #0b1247;
   }
 }
 
